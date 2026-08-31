@@ -1,9 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<rss
+  version="2.0"
+  xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+>
   <channel>
     <title>花の木 Windows Updates</title>
     <description>花の木 Windows版の更新情報</description>
     <language>ja</language>
+
+    <item>
+      <title>花の木 1.0.1</title>
+
+      <description>
+        <![CDATA[
+          <p>花の木 Windows版 1.0.1</p>
+          <p>自動アップデート動作確認用の更新版です。</p>
+        ]]>
+      </description>
+
+      <pubDate>Mon, 31 Aug 2026 06:00:00 GMT</pubDate>
+
+      <enclosure
+        url="https://github.com/TottiAH/hananoki-updates/releases/download/v1.0.1/hananoki-setup-1.0.1.exe"
+        sparkle:version="1.0.1+2"
+        sparkle:shortVersionString="1.0.1"
+        sparkle:dsaSignature="MDwCHHaso4d1YP1euFBesbNl7N0spx7f/LTojAKsZaACHAPKtt3pX05y11mDNagqSR5B0ImoDhx+P+S2hlM="
+        sparkle:installerArguments="/SILENT /SP- /NOICONS /NORESTARTAPPLICATIONS"
+        length="18721840"
+        type="application/octet-stream"
+      />
+    </item>
+
   </channel>
 </rss>
