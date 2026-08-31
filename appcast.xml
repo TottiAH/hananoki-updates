@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>花の木 Windows Updates</title>
+    <description>花の木 Windows版の更新情報</description>
+    <language>ja</language>
+  </channel>
+</rss>
