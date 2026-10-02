@@ -4,29 +4,31 @@
   xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
 >
   <channel>
-    <title>花の木 Windows Updates</title>
-    <description>花の木 Windows版の更新情報</description>
+    <title>はなのき Windows Updates</title>
+    <description>はなのき Windows版の更新情報</description>
     <language>ja</language>
 
     <item>
-      <title>花の木 1.0.1</title>
+      <title>はなのき 1.0.2</title>
 
       <description>
         <![CDATA[
-          <p>花の木 Windows版 1.0.1</p>
-          <p>自動アップデート動作確認用の更新版です。</p>
+          <p>はなのき Windows版 1.0.2</p>
+          <p>アプリアイコンを更新しました。</p>
+          <p>グループのメンバー人数表示を統一しました。</p>
+          <p>チャット内のURLをクリックできるようにしました。</p>
         ]]>
       </description>
 
-      <pubDate>Mon, 31 Aug 2026 06:00:00 GMT</pubDate>
+      <pubDate>Fri, 02 Oct 2026 15:00:00 GMT</pubDate>
 
       <enclosure
-        url="https://github.com/TottiAH/hananoki-updates/releases/download/v1.0.1/hananoki-setup-1.0.1.exe"
-        sparkle:version="1.0.1+2"
-        sparkle:shortVersionString="1.0.1"
-        sparkle:dsaSignature="MDwCHHMqFIZHY6mOQoWrltRVWT65pS3C+tHimKXL9ZACHD+x9cbgd6lyPSWkoDIF882twoDTM+bDPyXQpxI="
+        url="https://github.com/TottiAH/hananoki-updates/releases/download/v1.0.2/hananoki-setup-1.0.2.exe"
+        sparkle:version="1.0.2+3"
+        sparkle:shortVersionString="1.0.2"
+        sparkle:dsaSignature="MD4CHQCx0ecNDrlrBMcBqSFKnEUVJGhBEh1uMjwLjIqlAh0AwZCC47ffpFUjfi/2WCXwQlPEECYX6YurIyRmVQ=="
         sparkle:installerArguments="/SILENT /SP- /NOICONS /NORESTARTAPPLICATIONS"
-        length="18720653"
+        length="18896734"
         type="application/octet-stream"
       />
     </item>
