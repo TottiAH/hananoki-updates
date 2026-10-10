@@ -1,9 +1,7 @@
 
 <?xml version="1.0" encoding="UTF-8"?>
-<rss
-  version="2.0"
-  xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
->
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>はなのき Windows Updates</title>
     <description>はなのき Windows版の更新情報</description>
@@ -13,15 +11,13 @@
     <item>
       <title>はなのき 1.0.3</title>
 
-      <description>
-        <![CDATA[
-          <p>はなのき Windows版 1.0.3</p>
-          <p>個人チャットにP2Pファイル転送機能を追加しました。</p>
-          <p>ファイル転送の進捗表示と表示切替に対応しました。</p>
-          <p>新規登録機能と関連処理を改善しました。</p>
-          <p>チャット画面の表示を調整しました。</p>
-        ]]>
-      </description>
+      <description><![CDATA[
+        <p>はなのき Windows版 1.0.3</p>
+        <p>個人チャットにP2Pファイル転送機能を追加しました。</p>
+        <p>ファイル転送の進捗表示と表示切替に対応しました。</p>
+        <p>新規登録機能と関連処理を改善しました。</p>
+        <p>チャット画面の表示を調整しました。</p>
+      ]]></description>
 
       <enclosure
         url="https://github.com/TottiAH/hananoki-updates/releases/download/v1.0.3/hananoki-setup-1.0.3.exe"
@@ -38,14 +34,12 @@
     <item>
       <title>はなのき 1.0.2</title>
 
-      <description>
-        <![CDATA[
-          <p>はなのき Windows版 1.0.2</p>
-          <p>アプリアイコンを更新しました。</p>
-          <p>グループのメンバー人数表示を統一しました。</p>
-          <p>チャット内のURLをクリックできるようにしました。</p>
-        ]]>
-      </description>
+      <description><![CDATA[
+        <p>はなのき Windows版 1.0.2</p>
+        <p>アプリアイコンを更新しました。</p>
+        <p>グループのメンバー人数表示を統一しました。</p>
+        <p>チャット内のURLをクリックできるようにしました。</p>
+      ]]></description>
 
       <pubDate>Fri, 02 Oct 2026 15:00:00 GMT</pubDate>
 
