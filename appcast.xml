@@ -6,6 +6,30 @@
     <description>はなのき Windows版の更新情報</description>
     <language>ja</language>
 
+    <!-- はなのき 1.0.4 -->
+    <item>
+      <title>はなのき 1.0.4</title>
+
+      <description><![CDATA[
+        <p>はなのき Windows版 1.0.4</p>
+        <p>アプリのバージョン情報を修正しました。</p>
+        <p>アプリアイコンを更新しました。</p>
+        <p>自動アップデートの動作を改善しました。</p>
+      ]]></description>
+
+      <pubDate>Sat, 10 Oct 2026 05:00:00 GMT</pubDate>
+
+      <enclosure
+        url="https://github.com/TottiAH/hananoki-updates/releases/download/v1.0.4/hananoki-setup-1.0.4.exe"
+        sparkle:version="1.0.4+5"
+        sparkle:shortVersionString="1.0.4"
+        sparkle:dsaSignature="MDwCHAPPssWSL09qZObHHKt++mFYiQ1CpwvbSBhcY2QCHFB0wf99SLu4EpK1St9sNED+uuB+Gyv+f8K6rjA="
+        sparkle:installerArguments="/SILENT /SP- /NOICONS /NORESTARTAPPLICATIONS"
+        length="18922361"
+        type="application/octet-stream"
+      />
+    </item>
+
     <!-- はなのき 1.0.3 -->
     <item>
       <title>はなのき 1.0.3</title>
