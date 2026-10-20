@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
      xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
@@ -5,6 +6,31 @@
     <title>はなのき Windows Updates</title>
     <description>はなのき Windows版の更新情報</description>
     <language>ja</language>
+
+    <!-- はなのき 1.0.5 -->
+    <item>
+      <title>はなのき 1.0.5</title>
+
+      <description><![CDATA[
+        <p>はなのき Windows版 1.0.5</p>
+        <p>チャットとグループを統合したデスクトップ型UIへ変更しました。</p>
+        <p>チャット・VCをアプリ内の小窓で開けるようにしました。</p>
+        <p>アイコンのドラッグ移動とグリッド配置を改善しました。</p>
+        <p>右側ナビゲーションと白を基調としたUIに変更しました。</p>
+        <p>Windows通知に対応しました。</p>
+        <p>レイアウトと動作の安定性を改善しました。</p>
+      ]]></description>
+
+      <enclosure
+        url="https://github.com/TottiAH/hananoki-updates/releases/download/v1.0.5/hananoki-setup-1.0.5.exe"
+        sparkle:version="1.0.5+6"
+        sparkle:shortVersionString="1.0.5"
+        sparkle:dsaSignature="MDwCHHHOlrpnWGJGmxeTJ8TlewZl6Yp3ZjHR3fhokV8CHCj2G7ga2VJsQByyJu87xUX5n/a+HaySHb5SLy8="
+        sparkle:installerArguments="/SILENT /SP- /NOICONS /NORESTARTAPPLICATIONS"
+        length="18998068"
+        type="application/octet-stream"
+      />
+    </item>
 
     <!-- はなのき 1.0.4 -->
     <item>
