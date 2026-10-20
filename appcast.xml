@@ -6,6 +6,27 @@
     <description>はなのき Windows版の更新情報</description>
     <language>ja</language>
 
+    <!-- はなのき 1.0.6 -->
+    <item>
+      <title>はなのき 1.0.6</title>
+
+      <description><![CDATA[
+        <p>はなのき Windows版 1.0.6</p>
+        <p>デスクトップショートカットの重複を防止しました。</p>
+        <p>アプリの表記を「はなのき」に統一しました。</p>
+      ]]></description>
+
+      <enclosure
+        url="https://github.com/TottiAH/hananoki-updates/releases/download/v1.0.6/hananoki-setup-1.0.6.exe"
+        sparkle:version="1.0.6+7"
+        sparkle:shortVersionString="1.0.6"
+        sparkle:dsaSignature="MD0CHDJEl4MacxRItvtZdJyTombxkFJDtCDr2q0LrgMCHQCM05whhTNkLF3/J5DbFd/u1Ulc1l+t+xusqigr"
+        sparkle:installerArguments="/SILENT /SP- /NOICONS /NORESTARTAPPLICATIONS"
+        length="18998958"
+        type="application/octet-stream"
+      />
+    </item>
+
     <!-- はなのき 1.0.5 -->
     <item>
       <title>はなのき 1.0.5</title>
