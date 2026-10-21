@@ -6,6 +6,33 @@
     <description>はなのき Windows版の更新情報</description>
     <language>ja</language>
 
+    <!-- はなのき 1.0.7 -->
+    <item>
+      <title>はなのき 1.0.7</title>
+
+      <description><![CDATA[
+        <p>はなのき Windows版 1.0.7</p>
+        <p>チャット・グループ・VCの小窓UIを改善しました。</p>
+        <p>スクロールバーとメッセージの重なりを改善しました。</p>
+        <p>チャット・グループの小窓にアイコンを追加しました。</p>
+        <p>設定画面の背景デザインを統一しました。</p>
+        <p>設定画面のボタン操作と表示を改善しました。</p>
+        <p>VCの相手別音量調整を改善しました。</p>
+        <p>VC利用中に他のアプリの音量が自動的に下がる問題に対策しました。</p>
+        <p>UI全体の表示と操作性を改善しました。</p>
+      ]]></description>
+
+      <enclosure
+        url="https://github.com/TottiAH/hananoki-updates/releases/download/v1.0.7/hananoki-setup-1.0.7.exe"
+        sparkle:version="1.0.7+8"
+        sparkle:shortVersionString="1.0.7"
+        sparkle:dsaSignature="MDwCHGXODN9yps1M0hDtAphAkOUQtxe7Nr4H7dtstCcCHCjgJXR+NP59TjZ1kjUlODlVg8xuHimkE4IsUyA="
+        sparkle:installerArguments="/SILENT /SP- /NOICONS /NORESTARTAPPLICATIONS"
+        length="19003369"
+        type="application/octet-stream"
+      />
+    </item>
+
     <!-- はなのき 1.0.6 -->
     <item>
       <title>はなのき 1.0.6</title>
