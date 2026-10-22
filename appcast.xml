@@ -21,9 +21,9 @@
         url="https://github.com/TottiAH/hananoki-updates/releases/download/v1.0.8/hananoki-setup-1.0.8.exe"
         sparkle:version="1.0.8+9"
         sparkle:shortVersionString="1.0.8"
-        sparkle:dsaSignature="REPLACE_WITH_1_0_8_SIGNATURE"
+        sparkle:dsaSignature="MD0CHQCuBO7FXxeETp5xki1I88ybSJ3gmoE/AY8MfFUkAhwef7hcHQ9QQKtXY149RnG7YPEd8+j3riOPvAtb"
         sparkle:installerArguments="/SILENT /SP- /NOICONS /NORESTARTAPPLICATIONS"
-        length="REPLACE_WITH_1_0_8_FILE_SIZE"
+        length="19057608"
         type="application/octet-stream"
       />
     </item>
