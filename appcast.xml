@@ -6,27 +6,30 @@
     <description>はなのき Windows版の更新情報</description>
     <language>ja</language>
 
-    <!-- はなのき 1.0.8 -->
+    <!-- はなのき 1.0.9 -->
     <item>
-      <title>はなのき 1.0.8</title>
+      <title>はなのき 1.0.9</title>
 
       <description><![CDATA[
-        <p>はなのき Windows版 1.0.8</p>
+        <p>はなのき Windows版 1.0.9</p>
         <p>VCに画面共有機能を追加しました。</p>
         <p>画面共有の開始・停止に対応しました。</p>
-        <p>VC関連の処理を改善しました。</p>
+        <p>VC関連の処理と安定性を改善しました。</p>
+        <p>Windowsインストーラーを更新しました。</p>
       ]]></description>
 
       <enclosure
-        url="https://github.com/TottiAH/hananoki-updates/releases/download/v1.0.8/hananoki-setup-1.0.8.exe"
-        sparkle:version="1.0.8+9"
-        sparkle:shortVersionString="1.0.8"
-        sparkle:dsaSignature="MD0CHQCuBO7FXxeETp5xki1I88ybSJ3gmoE/AY8MfFUkAhwef7hcHQ9QQKtXY149RnG7YPEd8+j3riOPvAtb"
+        url="https://github.com/TottiAH/hananoki-updates/releases/download/v1.0.9/hananoki-setup-1.0.9.exe"
+        sparkle:version="1.0.9+10"
+        sparkle:shortVersionString="1.0.9"
+        sparkle:dsaSignature="MD0CHQCM8nncmFSqAdnGY9Rlt0mPk1sE9NEF8qTDPF0SAhw5H6ED/jd03Ns/h/eWE/mm3GNwoMAX2zn5TCPE"
         sparkle:installerArguments="/SILENT /SP- /NOICONS /NORESTARTAPPLICATIONS"
-        length="19057608"
+        length="19057563"
         type="application/octet-stream"
       />
     </item>
+
+    <!-- はなのき 1.0.8 は安全確認まで配信停止 -->
 
     <!-- はなのき 1.0.7 -->
     <item>
