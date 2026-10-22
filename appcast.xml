@@ -6,6 +6,28 @@
     <description>はなのき Windows版の更新情報</description>
     <language>ja</language>
 
+    <!-- はなのき 1.0.8 -->
+    <item>
+      <title>はなのき 1.0.8</title>
+
+      <description><![CDATA[
+        <p>はなのき Windows版 1.0.8</p>
+        <p>VCに画面共有機能を追加しました。</p>
+        <p>画面共有の開始・停止に対応しました。</p>
+        <p>VC関連の処理を改善しました。</p>
+      ]]></description>
+
+      <enclosure
+        url="https://github.com/TottiAH/hananoki-updates/releases/download/v1.0.8/hananoki-setup-1.0.8.exe"
+        sparkle:version="1.0.8+9"
+        sparkle:shortVersionString="1.0.8"
+        sparkle:dsaSignature="REPLACE_WITH_1_0_8_SIGNATURE"
+        sparkle:installerArguments="/SILENT /SP- /NOICONS /NORESTARTAPPLICATIONS"
+        length="REPLACE_WITH_1_0_8_FILE_SIZE"
+        type="application/octet-stream"
+      />
+    </item>
+
     <!-- はなのき 1.0.7 -->
     <item>
       <title>はなのき 1.0.7</title>
