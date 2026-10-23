@@ -6,6 +6,32 @@
     <description>はなのき Windows版の更新情報</description>
     <language>ja</language>
 
+    <!-- はなのき 1.0.10 -->
+    <item>
+      <title>はなのき 1.0.10</title>
+
+      <description><![CDATA[
+        <p>はなのき Windows版 1.0.10</p>
+        <p>フレンド・グループチャットにGIF検索・送信機能を追加しました。</p>
+        <p>メッセージのピン留め機能を追加しました。</p>
+        <p>ピン留め一覧から元のメッセージへ移動できるようにしました。</p>
+        <p>ピン留め情報を会話の参加者間で共有できるようにしました。</p>
+        <p>フレンド・グループのメッセージに日付・時刻表示を追加しました。</p>
+        <p>メッセージ入力欄の文字を読みやすく調整しました。</p>
+        <p>チャットのスクロール処理と安定性を改善しました。</p>
+      ]]></description>
+
+      <enclosure
+        url="https://github.com/TottiAH/hananoki-updates/releases/download/v1.0.10/hananoki-setup-1.0.10.exe"
+        sparkle:version="1.0.10+11"
+        sparkle:shortVersionString="1.0.10"
+        sparkle:dsaSignature="MD4CHQCYmMJ4U4h/9purgQMsNo4oitlIpbW57xiSGW/TAh0Ah+rlO9obsNvDDeFVU6BO6dnbImICzvMInWBfYg=="
+        sparkle:installerArguments="/SILENT /SP- /NOICONS /NORESTARTAPPLICATIONS"
+        length="19082790"
+        type="application/octet-stream"
+      />
+    </item>
+
     <!-- はなのき 1.0.9 -->
     <item>
       <title>はなのき 1.0.9</title>
